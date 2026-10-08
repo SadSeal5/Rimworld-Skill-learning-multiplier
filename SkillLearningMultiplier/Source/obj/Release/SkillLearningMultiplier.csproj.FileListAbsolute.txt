@@ -1,0 +1,9 @@
+d:\ramo gay\SkillLearningMultiplier\Assemblies\SkillLearningMultiplier.dll
+d:\ramo gay\SkillLearningMultiplier\Assemblies\SkillLearningMultiplier.pdb
+d:\ramo gay\SkillLearningMultiplier\Source\obj\Release\SkillLearningMultiplier.csproj.AssemblyReference.cache
+d:\ramo gay\SkillLearningMultiplier\Source\obj\Release\SkillLearningMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+d:\ramo gay\SkillLearningMultiplier\Source\obj\Release\SkillLearningMultiplier.AssemblyInfoInputs.cache
+d:\ramo gay\SkillLearningMultiplier\Source\obj\Release\SkillLearningMultiplier.AssemblyInfo.cs
+d:\ramo gay\SkillLearningMultiplier\Source\obj\Release\SkillLearningMultiplier.csproj.CoreCompileInputs.cache
+d:\ramo gay\SkillLearningMultiplier\Source\obj\Release\SkillLearningMultiplier.dll
+d:\ramo gay\SkillLearningMultiplier\Source\obj\Release\SkillLearningMultiplier.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bZQ6B+zINyo=",
+  "success": true,
+  "projectFilePath": "d:\\ramo gay\\SkillLearningMultiplier\\Source\\SkillLearningMultiplier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

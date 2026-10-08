@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SLM_ModTitle>Skill Learning Multiplier</SLM_ModTitle>
+  <SLM_GeneralSettings>General &amp; QoL Settings</SLM_GeneralSettings>
+  <SLM_OnlyColonists>Affect Player Colonists Only</SLM_OnlyColonists>
+  <SLM_OnlyColonists_Desc>When enabled, multipliers and learning benefits only apply to player faction colonists and slaves, ignoring enemies, guests, and other pawns.</SLM_OnlyColonists_Desc>
+  <SLM_DisableDailyCap>Disable Daily XP Soft-Cap</SLM_DisableDailyCap>
+  <SLM_DisableDailyCap_Desc>In vanilla RimWorld, earning more than 4,000 XP in a single day reduces subsequent XP gains to 20%. Enabling this option removes this penalty so high multipliers are not throttled.</SLM_DisableDailyCap_Desc>
+  <SLM_DisableSkillDecay>Disable Skill Decay</SLM_DisableSkillDecay>
+  <SLM_DisableSkillDecay_Desc>In vanilla RimWorld, skills at level 10 and above slowly lose XP over time. Enabling this option prevents skills from decaying.</SLM_DisableSkillDecay_Desc>
+  <SLM_UseGlobalMultiplier>Use Global Multiplier for all skills</SLM_UseGlobalMultiplier>
+  <SLM_UseGlobalMultiplier_Desc>When enabled, the single global multiplier applies to every skill. Uncheck to configure each skill independently.</SLM_UseGlobalMultiplier_Desc>
+  <SLM_GlobalMultiplier>Global XP Multiplier</SLM_GlobalMultiplier>
+  <SLM_IndividualMultipliers>Individual Skill Multipliers</SLM_IndividualMultipliers>
+  <SLM_IndividualNotice>Note: Global multiplier is currently active. Uncheck 'Use Global Multiplier' to use individual multipliers in-game.</SLM_IndividualNotice>
+  <SLM_Presets>Quick Presets</SLM_Presets>
+  <SLM_Preset_Vanilla>1x (Vanilla)</SLM_Preset_Vanilla>
+  <SLM_Preset_2x>2x</SLM_Preset_2x>
+  <SLM_Preset_5x>5x</SLM_Preset_5x>
+  <SLM_Preset_10x>10x</SLM_Preset_10x>
+  <SLM_Preset_25x>25x</SLM_Preset_25x>
+  <SLM_Preset_50x>50x</SLM_Preset_50x>
+  <SLM_Preset_100x>100x</SLM_Preset_100x>
+  <SLM_ResetDefaults>Reset to Defaults</SLM_ResetDefaults>
+</LanguageData>
