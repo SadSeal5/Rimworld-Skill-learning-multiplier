@@ -15,6 +15,7 @@ Features:
 - Quick presets: 1x (Vanilla), 2x, 5x, 10x, 25x, 50x, 100x, and Reset.
 - Quality of Life: Option to disable daily XP soft-cap (bypasses the 4,000 XP/day 20% rate penalty).
 - Quality of Life: Option to disable skill level decay (prevents XP loss above level 10).
+- Quality of Life: Option to mute Masterwork and Legendary crafting notifications & sound effects.
 - Real-time synchronized sliders and numeric text fields with input buffers.
 - English and Turkish localization.</description>
   <modDependencies>

@@ -13,6 +13,7 @@ namespace SkillLearningMultiplier
         public float globalMultiplier = 1.0f;
         public bool disableDailyCap = false;
         public bool disableSkillDecay = false;
+        public bool muteMasterworkLegendaryNotifications = false;
 
         public Dictionary<string, float> skillMultipliers = new Dictionary<string, float>(StringComparer.OrdinalIgnoreCase);
 
@@ -63,6 +64,7 @@ namespace SkillLearningMultiplier
             globalMultiplier = 1.0f;
             disableDailyCap = false;
             disableSkillDecay = false;
+            muteMasterworkLegendaryNotifications = false;
             if (skillMultipliers == null)
             {
                 skillMultipliers = new Dictionary<string, float>(StringComparer.OrdinalIgnoreCase);
@@ -102,6 +104,7 @@ namespace SkillLearningMultiplier
             Scribe_Values.Look(ref globalMultiplier, "globalMultiplier", 1.0f);
             Scribe_Values.Look(ref disableDailyCap, "disableDailyCap", false);
             Scribe_Values.Look(ref disableSkillDecay, "disableSkillDecay", false);
+            Scribe_Values.Look(ref muteMasterworkLegendaryNotifications, "muteMasterworkLegendaryNotifications", false);
             Scribe_Collections.Look(ref skillMultipliers, "skillMultipliers", LookMode.Value, LookMode.Value);
 
             if (skillMultipliers == null)

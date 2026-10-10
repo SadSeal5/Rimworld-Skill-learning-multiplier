@@ -8,6 +8,8 @@
   <SLM_DisableDailyCap_Desc>Orijinal RimWorld'de bir günde 4.000 XP kazanıldıktan sonra öğrenme hızı %20'ye düşer. Bu seçenek bu kısıtlamayı kaldırarak yüksek çarpanların etkilenmesini önler.</SLM_DisableDailyCap_Desc>
   <SLM_DisableSkillDecay>Yetenek Erimesini / Düşüşünü Devre Dışı Bırak</SLM_DisableSkillDecay>
   <SLM_DisableSkillDecay_Desc>Orijinal RimWorld'de 10 ve üzeri seviyedeki yetenekler zamanla tecrübe kaybeder. Bu seçenek yeteneklerin erimesini engeller.</SLM_DisableSkillDecay_Desc>
+  <SLM_MuteMasterworkLegendary>Ustalık ve Efsanevi Eşya Bildirimlerini/Sesini Kapat</SLM_MuteMasterworkLegendary>
+  <SLM_MuteMasterworkLegendary_Desc>Koloniciler Ustalık İşi (Masterwork) veya Efsanevi (Legendary) kalitede eşya veya yapı ürettiğinde çıkan yüksek mektup ses efektini ve ekranı kaplayan bildirim zarflarını tamamen kapatır.</SLM_MuteMasterworkLegendary_Desc>
   <SLM_UseGlobalMultiplier>Tüm yetenekler için Genel Çarpan kullan</SLM_UseGlobalMultiplier>
   <SLM_UseGlobalMultiplier_Desc>İşaretlendiğinde tek bir genel çarpan tüm yeteneklere uygulanır. Her yeteneği ayrı ayrı ayarlamak için işareti kaldırın.</SLM_UseGlobalMultiplier_Desc>
   <SLM_GlobalMultiplier>Genel XP Çarpanı</SLM_GlobalMultiplier>

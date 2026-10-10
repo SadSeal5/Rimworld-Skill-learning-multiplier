@@ -24,7 +24,7 @@ namespace SkillLearningMultiplier
         {
             var skills = DefDatabase<SkillDef>.AllDefsListForReading;
             int skillCount = skills != null ? skills.Count : 0;
-            float totalHeight = 380f + (skillCount * 38f);
+            float totalHeight = 415f + (skillCount * 38f);
 
             Rect outRect = new Rect(inRect.x, inRect.y, inRect.width, inRect.height);
             Rect viewRect = new Rect(0f, 0f, inRect.width - 24f, totalHeight);
@@ -55,6 +55,12 @@ namespace SkillLearningMultiplier
                 "SLM_DisableSkillDecay".Translate(),
                 ref settings.disableSkillDecay,
                 "SLM_DisableSkillDecay_Desc".Translate()
+            );
+
+            listing.CheckboxLabeled(
+                "SLM_MuteMasterworkLegendary".Translate(),
+                ref settings.muteMasterworkLegendaryNotifications,
+                "SLM_MuteMasterworkLegendary_Desc".Translate()
             );
 
             listing.CheckboxLabeled(
