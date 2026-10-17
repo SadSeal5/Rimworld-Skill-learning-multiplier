@@ -2,7 +2,7 @@
 
 ![Skill Learning Multiplier Banner](SkillLearningMultiplier/About/Preview.png)
 
-[![RimWorld 1.5 & 1.6](https://img.shields.io/badge/RimWorld-1.5%20%7C%201.6-brightgreen.svg)](#)
+[![RimWorld 1.5, 1.6 & 1.7 (Beta)](https://img.shields.io/badge/RimWorld-1.5%20%7C%201.6%20%7C%201.7%20(Beta)-brightgreen.svg)](#)
 [![Harmony](https://img.shields.io/badge/Requires-Harmony-blue.svg)](https://github.com/pardeike/HarmonyRimWorld)
 [![Language](https://img.shields.io/badge/Language-C%23-blue.svg)](#)
 [![License](https://img.shields.io/badge/License-MIT-orange.svg)](#)
@@ -35,7 +35,7 @@
 ---
 
 ## 📋 Requirements
-- **RimWorld:** `1.5` or `1.6`
+- **RimWorld:** `1.5`, `1.6` or `1.7` (Beta)
 - **Harmony:** [`brrainz.harmony`](https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) (Must be loaded before this mod).
 
 ---
